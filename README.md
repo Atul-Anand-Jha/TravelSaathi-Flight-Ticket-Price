@@ -59,6 +59,6 @@ This can be further enhanced to bring the optimal Fare price to the other side o
 **NOTE :** *Currently, this project is not hosted live on any online server. I have built this solely on my local PC. and, tested on localhost, only. You can try to serve it online also.*
 
 ### Disclaimer: 
-Any discripency or violation of copyright issues is just a mistake. Big Apologies for that. In such case please contact to me; I will remove that one. In case you copy any content of this repository, You are expected to mention its owner's ( MY) name with little description.
+In case you copy any content of this repository, You are expected to mention its owner's ( MY) name with little description.
 
 >> To explore the project in detail and find its hidden finctionalities , run and explore it by yourself.
